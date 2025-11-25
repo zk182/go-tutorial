@@ -1,6 +1,6 @@
 module example/hello
 
-go 1.25.3
+go 1.22.12
 
 require rsc.io/quote v1.5.2
 
